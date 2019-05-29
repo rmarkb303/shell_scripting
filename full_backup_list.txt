@@ -1,0 +1,4 @@
+/home/mark/Documents/ACARES
+/home/mark/Documents/amateur_radio
+/home/mark/Documents/cybersecurity
+/home/mark/src
